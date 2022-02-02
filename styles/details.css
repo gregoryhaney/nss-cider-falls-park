@@ -1,0 +1,39 @@
+.header_container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+header {
+
+
+}
+
+.main_container {
+    flex-basis: 24%;
+    margin: 0 2rem;
+    border: 1px dotted goldenrod;
+}
+
+.main_guests_tile {
+
+    
+}
+
+.attractions_container {
+    padding: 1rem 5rem;
+}
+
+.attractions_tiles {
+
+
+}
+
+.footer_container {
+
+}
+
+
+footer {
+
+
+}
